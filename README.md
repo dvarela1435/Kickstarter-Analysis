@@ -7,6 +7,8 @@ How campaigns fared in relation to their launch dates and their funding goals us
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes vs Launch](/Resources/Theater_Outcomes_vs_Launch.png)
+
 This is an analytical report using Excel from Kickstart dataset.
 
 This report is from a period of 2009 through 2017.
@@ -21,6 +23,9 @@ This report is built on count of successful vs failed vs cancelled outcomes duri
 -	Cancellations are consistent throughout the year
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
+
 This is an analytical report using Excel from Kickstart dataset.
 
 This report is from a period of 2009 through 2017.
